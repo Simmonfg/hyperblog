@@ -1,6 +1,7 @@
 body
 {
-    color: #33A;
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: 'Segoe UI';
     font-size: 16px;
@@ -9,12 +10,19 @@ body
 }
 #cabecera
 {
-    background: green;
+    background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
-    padding: 0.5em;
+    padding: 20px;
     margin: 0;
+    font-size: 50px;  
+}
+
+#cabecera #logo
+{
+    width: 100px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -41,5 +49,6 @@ body
 
 #post
 {
+    background: white;
     padding: 1em;
 }
