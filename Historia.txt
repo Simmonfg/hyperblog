@@ -7,3 +7,5 @@ Mañana nos enfocaremos en su vida laboral
 
 Acabo de crear AnitoSimon para el curso de Platzi, con el fin de trabajar en colaboración con Simmonfg
 
+AnitoSimon contribuye a este proyecto OpenSource
+
