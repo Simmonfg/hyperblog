@@ -52,3 +52,13 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+	background: blue;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	padding: 10px;
+	vertical-align: middle;
+}	
