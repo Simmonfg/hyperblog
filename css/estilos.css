@@ -53,6 +53,13 @@ body
     padding: 1em;
 }
 
+#post #foto1
+{
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+
 #footer
 {
 	background: blue;
